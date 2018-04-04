@@ -26,6 +26,7 @@ namespace KIOSK_Test.Controllers
         {
             UserManager = userManager;
             SignInManager = signInManager;
+            var s = "";
         }
 
         public ApplicationSignInManager SignInManager
