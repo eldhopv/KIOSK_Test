@@ -15,7 +15,7 @@ namespace KIOSK_Test.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Welcome";
+            ViewBag.Message = "Welcome1";
 
             return View();
         }
